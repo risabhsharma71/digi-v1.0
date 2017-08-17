@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Link to 
+Type=Link
+URL=file:///opt/gopath/src/fabric-samples/chaincode/digital_id.go
+Icon=text-x-go
